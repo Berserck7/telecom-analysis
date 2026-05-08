@@ -71,7 +71,7 @@ Abre Google Colab
 ## ▶ Cómo abrir el notebook en Google Colab
 
 Haz clic en el siguiente botón:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Berserck7/joseluispintocamargo.github.io/blob/main/S7-Version-Estudiante-Project-ConnectaTel.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Berserck7/telecom-analysis/blob/main/S7-Version-Estudiante-Project-ConnectaTel.ipynb)
 
 ## ▶ Cómo abrir el notebook en GitHub
 Haz clic en el siguiente botón:
