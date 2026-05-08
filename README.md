@@ -71,21 +71,25 @@ Abre Google Colab
 ## ▶ Cómo abrir el notebook en Google Colab
 
 Haz clic en el siguiente botón:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Berserck7/joseluispintocamargo.github.io/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Berserck7/joseluispintocamargo.github.io/blob/main/S7-Version-Estudiante-Project-ConnectaTel.ipynb)
 
-Opción 2 — Jupyter local
-bash# Clonar el repositorio
-git clone https://github.com/berserck7/telecom-analysis.git
-cd telecom-analysis
+## ▶ Cómo abrir el notebook en GitHub
+Haz clic en el siguiente botón:
+[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-black?logo=github)](https://github.com/berserck7/telecom-analysis)
+
 
 # Instalar dependencias
 pip install pandas matplotlib seaborn
 
 # Abrir el notebook
-jupyter notebook S7_Version-Estudiante-Project-ConnectaTel.ipynb
+jupyter notebook S7-Version-Estudiante-Project-ConnectaTel.ipynb
 
 Dependencias
-LibreríaVersión mínimaPython3.9+pandas1.3+matplotlib3.4+seaborn0.11+
+Librería   Versión mínima
+Python         3.9+
+pandas         1.3+ 
+matplotlib     3.4+
+seaborn        0.11+
 
 Estructura del repositorio
 connectatel-analysis/
@@ -93,7 +97,7 @@ connectatel-analysis/
 │   ├── plans.csv
 │   ├── users_latam.csv
 │   └── usage.csv
-├── S7_Version-Estudiante-Project-ConnectaTel.ipynb
+├── S7-Version-Estudiante-Project-ConnectaTel.ipynb
 └── README.md
 
 Autor
